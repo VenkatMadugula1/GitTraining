@@ -1,2 +1,2 @@
-Test my appplication
+Test my aplication
 => Adding new line
