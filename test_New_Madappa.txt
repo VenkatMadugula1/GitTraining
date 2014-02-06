@@ -1,0 +1,11 @@
+Adding new file1
+Editing file 1
+<<<<<<< HEAD
+Editing file 2 user 1
+=======
+<<<<<<< HEAD
+Editing file 2 user 221
+=======
+Editing file 2 user 222
+>>>>>>> 1d28e6504df3a43dc1976ecdc1db6def281bfe02
+>>>>>>> 1e99d05f0bc05262c7f9b5a42313592c1410afe7
